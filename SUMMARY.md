@@ -8,3 +8,4 @@
   * [第五期](posts/post_005.md)
   * [第六期](posts/post_006.md)
   * [第七期](posts/post_007.md)
+  * [第八期](posts/post_008.md)
