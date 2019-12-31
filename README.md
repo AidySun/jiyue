@@ -4,6 +4,10 @@
 
 没有固定主题，包括但不限`科技 观点 有趣 设计 音乐 文学 图片 资源 软件 电影`。
 
+👇 公众号 
+
+![](barcode.jpg)
+
 [第一期](posts/post_001.md)
 
 [第二期](posts/post_002.md)
@@ -25,3 +29,6 @@
 [第十期](posts/post_010.md)
 
 [第十一期](posts/post_011.md)
+
+[第十二期](posts/post_012.md)
+
