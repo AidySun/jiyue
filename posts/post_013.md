@@ -98,9 +98,11 @@ Glassdoor 发布了多个国家（没有中国）的2020年最佳工作地点排
 《亚东印画辑》于1924年开始出版发行，连续发行了19年，内容涉及风俗民情、自然风光、人文历史、艺术文化等。
 
 👇 麻将-鲤鱼-套圈-晒太阳-南京饮料店
+
 ![麻将-鲤鱼-套圈-晒太阳-南京饮料店.jpg](https://i.loli.net/2020/01/09/vPhg7kwMf9dY5Nz.jpg)
 
 👇 缠足-上海战争废墟-胡同-卖艺-南京南门大街
+
 ![缠足-上海战争废墟-胡同-卖艺-南京南门大街.jpg](https://i.loli.net/2020/01/09/ZVgbQaJx914uLIn.jpg)
 
 👇 实物招牌：肉铺-马车用品-刷子店-五重塔（首饰店）-殡葬用品-乡村旅店
@@ -110,12 +112,15 @@ Glassdoor 发布了多个国家（没有中国）的2020年最佳工作地点排
 ![实物招牌.jpg](https://i.loli.net/2020/01/09/crPDQydploqaOVw.jpg)
 
 👇 卖花哈尔滨-当铺-前门大街
+
 ![卖花哈尔滨-当铺-前门大街.jpg](https://i.loli.net/2020/01/09/y74ueUJdZpfEnDR.jpg)
 
 👇 乌丹戏剧表演-赤峰大街-海口码头-香港
+
 ![乌丹戏剧表演-赤峰大街-海口码头-香港.jpg](https://i.loli.net/2020/01/09/rNLJR4D1qyeotuA.jpg)
 
 👇 吉林卖烟叶-长沙标语墙-少女
+
 ![吉林卖烟叶-长沙标语墙-少女.jpg](https://i.loli.net/2020/01/09/Yr6niv3hGmHo5bS.jpg)
 
 ——[1924-1944年的中国《亚东印画辑》](https://mp.weixin.qq.com/s/Okl9L4KJ4bLFJpbQxYe6TQ)
