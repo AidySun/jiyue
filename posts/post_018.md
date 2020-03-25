@@ -30,7 +30,7 @@
 
 ![](https://i.loli.net/2020/03/24/3sV1ikLEfDabcgW.png)
 
-- 恐龙造型的儿童计算器
+- 恐龙造型的语音型计算器
 
 ![](https://i.loli.net/2020/03/24/ZyMuQm79altSfHp.png)
 
@@ -51,7 +51,7 @@
 
 #### 3、At a risk 而不是 On a risk
 
-固定词组是 `on your onw risk`，英语母语的人从不会说 `on your own risk`。
+固定词组是 `at your own risk`，英语母语的人从不会说 ~`on your own risk`~。
 
 --['At your own risk' or 'On your own risk'?](https://ell.stackexchange.com/questions/13918/at-your-own-risk-or-on-your-own-risk)
 
@@ -63,21 +63,21 @@
 
 1. 对于使用源代码的库（如Cocoapods）可使用`grep`命令
 
-```shell
-❯ grep -r 'UIWebView' .
-./RxCocoa/iOS/UIWebView+Rx.swift://  UIWebView+Rx.swift
-./RxCocoa/iOS/UIWebView+Rx.swift:    extension Reactive where Base: UIWebView {
-```
+  ```shell
+  ❯ grep -r 'UIWebView' .
+  ./RxCocoa/iOS/UIWebView+Rx.swift://  UIWebView+Rx.swift
+  ./RxCocoa/iOS/UIWebView+Rx.swift:    extension Reactive where Base: UIWebView {
+  ```
 
 2. 对于不包含源码的第三方`.framework`，可用`nm`命令查找符号表
 
-```shell
-❯ nm AWSDK.framework/AWSDK | grep -i UIWebView
+  ```shell
+  ❯ nm AWSDK.framework/AWSDK | grep -i UIWebView
                  U _OBJC_CLASS_$_UIWebView
                  U _OBJC_CLASS_$_UIWebView
-0000000000002a00 S __OBJC_LABEL_PROTOCOL_$_UIWebViewDelegate
-0000000000002998 D __OBJC_PROTOCOL_$_UIWebViewDelegate
-```
+  0000000000002a00 S __OBJC_LABEL_PROTOCOL_$_UIWebViewDelegate
+  0000000000002998 D __OBJC_PROTOCOL_$_UIWebViewDelegate
+  ```
 
 --[Determining which frameworks use UIWebView](https://blog.kulman.sk/determining-which-frameworks-use-uiwebview/)
 
